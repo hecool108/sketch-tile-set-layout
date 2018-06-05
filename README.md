@@ -30,6 +30,14 @@ npm run start
 
 ## Custom Configuration
 
+After the plugin installed:
+1. Open Sketch app. Create an artboard, let take iPad pro as the template.
+2. Select the group of elements, select: Plugin -> tile-set-layout -> Do layout
+![Select elements](http://7xpp99.com1.z0.glb.clouddn.com/sketch_tiled.png)
+3. Boom! 
+![Boom](http://7xpp99.com1.z0.glb.clouddn.com/boom.png)
+
+
 ### Babel
 
 To customize Babel, you have two options:
