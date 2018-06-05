@@ -4,15 +4,15 @@
   "icon": "icon.png",
   "commands": [
     {
-      "name": "my-command",
-      "identifier": "my-command-identifier",
-      "script": "./my-command.js"
+      "name": "Layout",
+      "identifier": "do-layout",
+      "script": "./do_layout.js"
     }
   ],
   "menu": {
     "title": "tile-set-layout",
     "items": [
-      "my-command-identifier"
+      "do-layout"
     ]
   }
 }
